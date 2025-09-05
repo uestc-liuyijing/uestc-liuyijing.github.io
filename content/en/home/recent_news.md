@@ -21,10 +21,10 @@ design:
   columns: '2'
 ---
 
-* One paper was published in IEEE TMI 2023.
+* Our paper "Trusted Clustering Based Federated Learning in Edge Networks" has been published in IEEE Transactions on Mobile Computing (IEEE TMC), 2025.
 
-* One paper has been accepted by ICASSP 2023.
+* Our paper "A Survey of Integrating Generative Artificial Intelligence and 6G Mobile Services: Architectures, Solutions, Technologies and Outlooks" has been published in IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN), 2025.
 
-* One paper was published in IEEE TPAMI 2022.
+* One paper "Efficient Federated Learning in Wireless Networks With Incremental Model Quantization and Uploading" has been published in IEEE Transactions on Network Science and Engineering, 2025.
 
-* One paper has been accepted by ACCV 2022.
+* One paper "Adaptive Clustering-Based Straggler-Aware Federated Learning in Wireless Edge Networks" has been published in IEEE Transactions on Communications, 2024.
