@@ -22,13 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Session Chair
-    company: 2024 IEEE 24th International Conference on Communication Technology
-    location:Chengdu, China
-    date_start: '2024-10-18'
-    date_end: '2024-10-20'
-    description: |2-
-      
   - title: Reviewer
     company: IEEE JSAC, IEEE TWC, IEEE TCOM, IEEE TMC, etc.
 #    company_url: ''
