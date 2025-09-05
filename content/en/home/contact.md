@@ -20,11 +20,11 @@ content:
   email: liuyijing@uestc.edu.cn
   phone: 18380169106
   address:
-    street: 821 Av. Jack Kilby
-    city: Villeneuve-Loubet
-    postcode: '06270'
-    country: France
-    country_code: FR
+    street: 2006 Av. Xiyuan
+    city: Chengdu
+    postcode: '611731'
+    country: China
+    country_code: CHN
 
   directions: Building Africa and Middle East - Floor 2
 #  office_hours:
