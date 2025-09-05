@@ -27,7 +27,7 @@ experience:
 #    company_url: ''
 
   - title: Reviewer
-    company: IEEE International Conference on Communication Technology.
+    company: IEEE ICCT
     location:Chengdu, China
     date_start: '2024-10-18'
     date_end: '2024-10-20'
