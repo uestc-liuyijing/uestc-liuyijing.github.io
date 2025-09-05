@@ -21,4 +21,5 @@ design:
   columns: '2'
 ---
 
-🏆 China National Postdoctoral Program for Innovative Talents（国家博新计划）, 2023
+🏆 China National Postdoctoral Program for Innovative Talents（国家博新计划）, 2023.
+🏆 National Natural Science Foundation of China（国自然青基）, 2024.
