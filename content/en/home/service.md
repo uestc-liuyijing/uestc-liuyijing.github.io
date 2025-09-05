@@ -26,12 +26,16 @@ experience:
     company: IEEE JSAC, IEEE TWC, IEEE TCOM, IEEE TMC, etc.
 #    company_url: ''
 
-  - title: Reviewer
-    company: IEEE ICCT
-    location:Chengdu, China
-    date_start: '2024-10-18'
-    date_end: '2024-10-20'
-    description: |2-
+
+  - title: Session Chair
+    company: 2024 IEEE ICCT
+    
+ # - title: Reviewer
+  #  company: IEEE ICCT
+   # location:Chengdu, China
+    #date_start: '2024-10-18'
+    #date_end: '2024-10-20'
+    #description: |2-
       
 
         
