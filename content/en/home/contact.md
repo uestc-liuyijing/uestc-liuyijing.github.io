@@ -26,7 +26,7 @@ content:
     country: China
     country_code: CHN
 
-  directions: Building Africa and Middle East - Floor 2
+  directions: Main Building
 #  office_hours:
 #    - 'Tuesday 09:00 to 17:00'
  
