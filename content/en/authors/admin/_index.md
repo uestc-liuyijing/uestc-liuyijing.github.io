@@ -3,15 +3,15 @@ bio:
 
 education:
   courses:
-  - course: 信息与通信工程
-    institution:   Shanghai Jiao Tong University
-    year: 2023 -  
-    img: /img/shjd.png
+  - course: PhD degree on Information and Communication Engineering
+    institution:  University of Electronic Science and Technology of China
+    year: 2017 - 2023  
+   # img: /img/shjd.png
     
-  - course: B.S. degree on Mathematics and Computational Science 
-    institution: Hunan University of Science and Technology
-    year: 2012 - 2016
-    img: /img/hnkd.png
+  - course: B.S. degree on Communication Engineering 
+    institution: Chongqing University of Posts and Telecommunications
+    year: 2013 - 2017
+   # img: /img/hnkd.png
 
 
     
@@ -19,9 +19,8 @@ highlight_name: true
 
 
 interests:
-  - AI research
-  - Multi-modal learning
-  - Visual tracking
+  - Distributed machine learning
+  - Intelligent wireless networks
 
 # interpret as a text block
 #interests2: | 
@@ -33,10 +32,10 @@ interests:
 #  - Robust LLM Applications
 
 organizations:
-- name: Shanghai Jiao Tong University, China
+- name: University of Electronic Science and Technology of China, China
 #  url: https://www.gwu.edu/
   
-role: Ph.D. Student 
+role: Associate Professor
 
 
 email: "liuyijing@uestc.edu.cn"
