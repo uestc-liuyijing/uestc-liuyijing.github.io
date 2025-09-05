@@ -26,6 +26,14 @@ experience:
     company: IEEE JSAC, IEEE TWC, IEEE TCOM, IEEE TMC, etc.
 #    company_url: ''
 
+  - title: Session Chair
+    company: IEEE International Conference on Communication Technology
+    location:Chengdu, China
+    date_start: '2024-10-18'
+    date_end: '2024-10-20'
+    description: |2-
+      
+
         
 
 design:
