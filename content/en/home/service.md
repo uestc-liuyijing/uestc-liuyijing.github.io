@@ -24,7 +24,6 @@ date_format: Jan 2006
 experience:
   - title: Session Chair
     company: 2024 IEEE 24th International Conference on Communication Technology
-#    company_url: ''
     location:Chengdu, China
     date_start: '2024-10-18'
     date_end: '2024-10-20'
