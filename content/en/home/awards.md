@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Awards
+title: Programs
 subtitle:
 #ex_link: '/news'  
 #ex_link_title: 'All news»'  
@@ -21,5 +21,6 @@ design:
   columns: '2'
 ---
 
-🏆 China National Postdoctoral Program for Innovative Talents（国家博新计划）, 2023.
-🏆 National Natural Science Foundation of China（国自然青基）, 2024.
+🏆 China National Postdoctoral Program for Innovative Talents（国家博新计划）, 2023.12-2025.09.
+🏆 National Natural Science Foundation of China（国自然青基）, 2025.01-2027.12.
+🏆 National Key Laboratory of Wireless Communications Foundation, 2023.09-2025.08.
