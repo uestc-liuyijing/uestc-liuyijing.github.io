@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Reviewer
-    company: IEEE JSAC, IEEE TWC, IEEE TCOM, IEEE TMC, etc.
+    company: IEEE JSAC, IEEE TWC, IEEE TCOM, IEEE TMC, IEEE TCCN, etc.
 #    company_url: ''
 
 
