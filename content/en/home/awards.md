@@ -25,4 +25,4 @@ design:
 
 🏆 National Natural Science Foundation of China（国自然青基）, 2025.01-2027.12.
 
-🏆 National Key Laboratory of Wireless Communications Foundation, 2023.09-2025.08.
+🏆 National Key Laboratory of Wireless Communications Foundation（全国重点实验室项目）, 2023.09-2025.08.
