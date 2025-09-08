@@ -20,6 +20,7 @@ highlight_name: true
 
 interests:
   - Distributed machine learning
+  - Generative AI
   - Intelligent wireless networks
 
 # interpret as a text block
