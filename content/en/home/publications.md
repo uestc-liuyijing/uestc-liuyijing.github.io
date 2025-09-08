@@ -69,7 +69,7 @@ pubs_list:
 
   - authors: "**Yi-Jing Liu**, Gang Feng, Dusit Niyato, Shuang Qin, Jianhong Zhou, Xiaoqian Li and Xinyi Xu"
     title: "Ensemble Distillation Based Adaptive Quantization for Supporting Federated Learning in Wireless Networks"
-    journal: "**IEEE Transactions on Wireless Communications** (JCR一区，中科院一区),  vol. 22, no. 6, pp. 4013-4027, June 2023"
+    journal: "*IEEE Transactions on Wireless Communications* (JCR一区，中科院一区),  vol. 22, no. 6, pp. 4013-4027, June 2023"
     links: 
 
 
@@ -78,7 +78,7 @@ pubs_list:
 
   - authors: "**Yi-Jing Liu**, Shuang Qin, Yao Sun and Gang Feng"
     title: "Resource Consumption for Supporting Federated Learning in Wireless Networks"
-    journal: "**IEEE Transactions on Wireless Communications** (JCR一区，中科院一区), vol. 21, no. 11, pp. 9974-9989, Nov. 2022."
+    journal: "*IEEE Transactions on Wireless Communications* (JCR一区，中科院一区), vol. 21, no. 11, pp. 9974-9989, Nov. 2022."
     links: 
 
 
