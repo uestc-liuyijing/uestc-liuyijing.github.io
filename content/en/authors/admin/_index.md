@@ -74,7 +74,7 @@ title:
 
 ---
 
-Hi, I am Yijing Liu (刘贻静)
+Hi, I am Yi-Jing Liu (刘贻静)
 
 I am currently serving as an associated professor at the National Key Laboratory of Wireless Communications, University of Electronic Science and Technology of China. I received Ph.D. degree at the University of Electronic Science and technology in 2023, under the supervision of **prof. Gang Feng**. I was also a visiting Ph.D. student at the College of Computing and Data Science, under the supervision of **prof. Dusit Niyato**, Nanyang Technological University, Singapore, from 2022 to 2023.
 
