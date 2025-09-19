@@ -20,7 +20,7 @@ design:
   view: compact
   columns: '2'
 ---
-* Our [best readings](https://www.comsoc.org/publications/best-readings/privacy-preservation-machine-learning-communications) have been created by ComSoc publishing team.
+* Our [best readings](https://www.comsoc.org/publications/best-readings/privacy-preservation-machine-learning-communications) have been created.
 
 * Our paper "Joint Inference Offloading and Model Caching for Small and Large Language Model Collaboration" has been accepted by IEEE Transactions on Mobile Computing (IEEE TMC), Sep. 2025.
 
