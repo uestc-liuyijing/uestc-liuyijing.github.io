@@ -25,6 +25,6 @@ design:
 
 (2) National Natural Science Foundation of China-Youth Fund（国自然青基）, leader, 2025.01-2027.12.
 
-(3) National Key Laboratory of Wireless Communications Foundation（全国重点实验室项目）, leader, 2023.09-2025.08.
+(3) National Key Laboratory of Wireless Communications Fund（全国重点实验室项目）, leader, 2023.09-2025.08.
 
 (4) National Natural Science Foundation of Sichuan Province（省自然青基）, leader, 2025.01-2026.12.
