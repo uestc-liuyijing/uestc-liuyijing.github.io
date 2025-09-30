@@ -23,7 +23,7 @@ design:
 
 (1) China National Postdoctoral Program for Innovative Talents（国家博新计划）, leader, 2023.12-2025.09.
 
-(2) National Natural Science Foundation of China（国自然青基）, leader, 2025.01-2027.12.
+(2) National Natural Science Foundation of China-Youth Fund（国自然青基）, leader, 2025.01-2027.12.
 
 (3) National Key Laboratory of Wireless Communications Foundation（全国重点实验室项目）, leader, 2023.09-2025.08.
 
