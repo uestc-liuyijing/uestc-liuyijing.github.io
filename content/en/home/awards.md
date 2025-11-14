@@ -20,6 +20,7 @@ design:
   view: compact
   columns: '2'
 ---
+(1) National Science and Technology Major Project of China on Mobile Information Networks（1-3专项）, Sub-project leader, 2026.01-2029.12.
 
 (1) China National Postdoctoral Program for Innovative Talents（国家博新计划）, leader, 2023.12-2025.09.
 
