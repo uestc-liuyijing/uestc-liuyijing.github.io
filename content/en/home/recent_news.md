@@ -22,7 +22,7 @@ design:
 ---
 * Dr. Liu receives the Young Scientist Award at the 2025 IEEE International Conference on Communication Techology (Oct. 2025).
 
-* Our [best readings](https://www.comsoc.org/publications/best-readings/privacy-preservation-machine-learning-communications) have been created.
+* Our [best readings](https://www.comsoc.org/publications/best-readings/privacy-preservation-machine-learning-communications) in Privacy Preservation for Machine Learning in Communications have been created.
 
 * Our paper "Joint Inference Offloading and Model Caching for Small and Large Language Model Collaboration" has been accepted by IEEE Transactions on Mobile Computing (IEEE TMC), Sep. 2025.
 
