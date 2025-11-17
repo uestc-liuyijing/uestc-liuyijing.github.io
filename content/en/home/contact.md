@@ -20,7 +20,7 @@ content:
   email: liuyijing@uestc.edu.cn
   phone: 18380169106
   address:
-    street: 2006 Av. Xiyuan
+    street: No.2006, Av. Xiyuan
     city: Chengdu
     postcode: '611731'
     country: China
