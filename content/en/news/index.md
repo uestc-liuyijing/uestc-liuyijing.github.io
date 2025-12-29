@@ -26,5 +26,3 @@ Computing, Management and Telecommunications (Dec. 2025).
 * One paper "Efficient Federated Learning in Wireless Networks With Incremental Model Quantization and Uploading" has been published in IEEE Transactions on Network Science and Engineering (IEEE TNSE), Jan. 2025.
 
 * One paper "Adaptive Clustering-Based Straggler-Aware Federated Learning in Wireless Edge Networks" has been published in IEEE Transactions on Communications (IEEE TCOM), June. 2024.
-
-* We won the first prize in VisDrone 2019 challenge, ICCVW 2019.
