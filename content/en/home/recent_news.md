@@ -20,6 +20,12 @@ design:
   view: compact
   columns: '2'
 ---
+* Dr. Liu receives the Best Paper Award at the 5th International Conference on
+Electronic Communication, Computer Science and Technology (Dec. 2025).
+
+* Dr. Liu receives the Best Paper Award at the 4th International Conference on
+Computing, Management and Telecommunications (Dec. 2025).
+
 * Dr. Liu receives the Young Scientist Award at the 2025 IEEE International Conference on Communication Techology (Oct. 2025).
 
 * Our [best readings](https://www.comsoc.org/publications/best-readings/privacy-preservation-machine-learning-communications) in Privacy Preservation for Machine Learning in Communications have been created.
