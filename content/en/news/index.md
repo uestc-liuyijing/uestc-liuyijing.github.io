@@ -6,22 +6,25 @@ share: false
 ---
 
 
-* One paper was published in IEEE TMI 2023.
+* Dr. Liu receives the Best Paper Award at the 5th International Conference on
+Electronic Communication, Computer Science and Technology (Dec. 2025).
 
-* One paper has been accepted by ICASSP 2023.
+* Dr. Liu receives the Young Scientist Award at the 25th IEEE International Conference on Communication Techology.
 
-* One paper was published in IEEE TPAMI 2022.
+* Dr. Liu receives the Best Paper Award at the 4th International Conference on
+Computing, Management and Telecommunications (Dec. 2025).
 
-* One paper has been accepted by ACCV 2022.
 
-* One paper has been accepted by MICCAI 2021.
+* Our [best readings](https://www.comsoc.org/publications/best-readings/privacy-preservation-machine-learning-communications) in Privacy Preservation for Machine Learning in Communications have been created.
 
-* One paper was published in IEEE TCSVT 2021.
+* Our paper "Joint Inference Offloading and Model Caching for Small and Large Language Model Collaboration" has been accepted by IEEE Transactions on Mobile Computing (IEEE TMC), Sep. 2025.
 
-* One paper was published in IEEE TNNLS 2021.
+* Our paper "Trusted Clustering Based Federated Learning in Edge Networks" has been published in IEEE Transactions on Mobile Computing (IEEE TMC), May. 2025.
 
-* We won the first prize in Anti-UAV 2020 challenge, CVPRW 2020.
+* Our paper "A Survey of Integrating Generative Artificial Intelligence and 6G Mobile Services: Architectures, Solutions, Technologies and Outlooks" has been published in IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN), April. 2025.
 
-* One paper was accepted in ACM MM 2020.
+* One paper "Efficient Federated Learning in Wireless Networks With Incremental Model Quantization and Uploading" has been published in IEEE Transactions on Network Science and Engineering (IEEE TNSE), Jan. 2025.
+
+* One paper "Adaptive Clustering-Based Straggler-Aware Federated Learning in Wireless Edge Networks" has been published in IEEE Transactions on Communications (IEEE TCOM), June. 2024.
 
 * We won the first prize in VisDrone 2019 challenge, ICCVW 2019.
