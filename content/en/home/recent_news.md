@@ -23,7 +23,7 @@ design:
 * Dr. Liu receives the Best Paper Award at the 5th International Conference on
 Electronic Communication, Computer Science and Technology (Dec. 2025).
 
-* Dr. Liu receives the Young Scientist Award at the 2025 IEEE International Conference on Communication Techology.
+* Dr. Liu receives the Young Scientist Award at the 25th IEEE International Conference on Communication Techology.
 
 * Dr. Liu receives the Best Paper Award at the 4th International Conference on
 Computing, Management and Telecommunications (Dec. 2025).
