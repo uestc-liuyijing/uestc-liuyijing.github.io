@@ -26,6 +26,6 @@ design:
 
 (3) China National Postdoctoral Program for Innovative Talents（国家博新计划）, Project leader, 2023.12-2025.09.
 
-(4) XXX Key Project Sub-Project (1XX 子课题，公开), Project leader, 2023.09-2025.08.
+(4) 1XX Key Project Sub-Project (1XX 子课题，公开), Project leader, 2023.09-2025.08.
 
 (5) National Natural Science Foundation of Sichuan Province（省自然青基）, Project leader, 2024.01-2025.12.
