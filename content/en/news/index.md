@@ -5,6 +5,7 @@ title: News
 share: false
 ---
 
+* <strong>Call for Papers</strong>: IEEE Transactions on Network Science and Engineering Special Issue on “[Knowledge-driven Autonomous Agent Systems: Mission-centric Coordination](https://www.comsoc.org/publications/journals/ieee-tnse/cfp/knowledge-driven-autonomous-agent-systems-mission-centric)”, DDL: 1. July. 2026, Lead Guest Editor.
 
 * Dr. Liu receives the Best Paper Award at the 5th International Conference on
 Electronic Communication, Computer Science and Technology (Dec. 2025).
