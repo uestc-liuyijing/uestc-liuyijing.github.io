@@ -27,10 +27,10 @@ experience:
 #    company_url: ''
 
 
-  - title: Session Chair
-    company: 2024 IEEE ICCT
-    date_start: '2024-10-18'
-    date_end: '2024-10-20'
+#  - title: Session Chair
+  #  company: 2024 IEEE ICCT
+ #   date_start: '2024-10-18'
+  #  date_end: '2024-10-20'
 
   - title: Lead Guest Editor
     company: IEEE Transactions on Network Science and Engineering Special Issue on "Knowledge-driven Autonomous Agent Systems_Mission-centric Coordination"
