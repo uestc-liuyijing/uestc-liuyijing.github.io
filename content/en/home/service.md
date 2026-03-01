@@ -31,7 +31,8 @@ experience:
     company: 2024 IEEE ICCT
 
   - title: Lead Guest Editor
-    company: IEEE Transactions on Network Science and Engineering Special Issue on "[**Knowledge-driven Autonomous Agent Systems: Mission-centric Coordination**](https://www.comsoc.org/publications/journals/ieee-tnse/cfp/knowledge-driven-autonomous-agent-systems-mission-centric)"
+    company: IEEE Transactions on Network Science and Engineering Special Issue on "Knowledge-driven Autonomous Agent Systems: Mission-centric Coordination"
+    company_url: 'https://www.comsoc.org/publications/journals/ieee-tnse/cfp/knowledge-driven-autonomous-agent-systems-mission-centric'
     
  # - title: Reviewer
   #  company: IEEE ICCT
