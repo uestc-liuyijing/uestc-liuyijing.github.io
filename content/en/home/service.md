@@ -34,7 +34,7 @@ experience:
 
   - title: Lead Guest Editor
     company: IEEE Transactions on Network Science and Engineering Special Issue
-    url: [**Knowledge-driven Autonomous Agent Systems: Mission-centric Coordination**](https://www.comsoc.org/publications/journals/ieee-tnse/cfp/knowledge-driven-autonomous-agent-systems-mission-centric)
+    company_url: [**Knowledge-driven Autonomous Agent Systems: Mission-centric Coordination**](https://www.comsoc.org/publications/journals/ieee-tnse/cfp/knowledge-driven-autonomous-agent-systems-mission-centric)
  #   company_url: 'https://www.comsoc.org/publications/journals/ieee-tnse/cfp/knowledge-driven-autonomous-agent-systems-mission-centric'
     
  # - title: Reviewer
