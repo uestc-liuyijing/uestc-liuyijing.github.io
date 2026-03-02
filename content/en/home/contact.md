@@ -18,7 +18,7 @@ content:
  
   # Contact details (edit or remove options as required)
   email: liuyijing@uestc.edu.cn
-  phone: 18380169106
+#  phone: 18380169106
   address:
     street: No.2006, Av. Xiyuan
     city: Chengdu
