@@ -20,7 +20,7 @@ design:
   view: compact
   columns: '2'
 ---
-(1) National Science and Technology Major Project of China on Mobile Information Networks-Project 2-2（1-3专项，项目2-2）, Sub-project leader, 2026.01-2028.12.
+(1) National Science and Technology Major Project of China on Mobile Information Networks-Project 2-2（移动信息网络国家科技重大专项，项目2-2）, Sub-project leader, 2026.01-2028.12.
 
 (2) National Natural Science Foundation of China-Youth Fund（国自然青基）, Project leader, 2025.01-2027.12.
 
