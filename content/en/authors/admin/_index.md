@@ -1,16 +1,16 @@
 ---
 bio: 
 
-education:
-  courses:
-  - course: PhD degree on Information and Communication Engineering
-    institution:  University of Electronic Science and Technology of China
-    year: 2017 - 2023  
+#education:
+ # courses:
+  #- course: PhD degree on Information and Communication Engineering
+   # institution:  University of Electronic Science and Technology of China
+    #year: 2017 - 2023  
    # img: /img/shjd.png
     
-  - course: B.S. degree on Communication Engineering 
-    institution: Chongqing University of Posts and Telecommunications
-    year: 2013 - 2017
+ # - course: B.S. degree on Communication Engineering 
+  #  institution: Chongqing University of Posts and Telecommunications
+   # year: 2013 - 2017
    # img: /img/hnkd.png
 
 
