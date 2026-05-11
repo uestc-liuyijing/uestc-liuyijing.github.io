@@ -24,11 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Reviewer
     company: IEEE JSAC, IEEE TWC, IEEE TCOM, IEEE TMC, IEEE TCCN, etc.
-#    company_url: ''
-#  - title: Session Chair
-  #  company: 2024 IEEE ICCT
- #   date_start: '2024-10-18'
-  #  date_end: '2024-10-20'.
+
   - title: Lead Guest Editor
     company: IEEE Transactions on Network Science and Engineering Special Issue on "Knowledge-driven Autonomous Agent Systems_Mission-centric Coordination"
     company_url: 'https://www.comsoc.org/publications/journals/ieee-tnse/cfp/knowledge-driven-autonomous-agent-systems-mission-centric'.
