@@ -20,6 +20,7 @@ design:
   view: compact
   columns: '2'
 ---
+
 * Dr. Liu receives the **Best Paper Award** at the 5th International Conference on
 Electronic Communication, Computer Science and Technology (Dec. 2025).
 
