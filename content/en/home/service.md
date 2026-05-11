@@ -31,7 +31,7 @@ experience:
     description: "Special Issue: Knowledge-driven Autonomous Agent Systems - Mission-centric Coordination"
     company_url: "https://www.comsoc.org/publications/journals/ieee-tnse/cfp/knowledge-driven-autonomous-agent-systems-mission-centric"
     
-  - title: Lead Guest Editor
+  - title: Guest Editor
     company: "Electronics (MDPI)"
     description: "Special Issue: Security and Privacy in Distributed Computing Power Networks for AI"
     company_url: "https://www.mdpi.com/journal/electronics/special_issues/61151X94GB"
