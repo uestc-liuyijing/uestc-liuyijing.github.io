@@ -23,13 +23,19 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Reviewer
-    company: IEEE JSAC, IEEE TWC, IEEE TCOM, IEEE TMC, IEEE TCCN, etc.
+    company: "IEEE Premier Journals"
+    description: "IEEE JSAC, IEEE TWC, IEEE TCOM, IEEE TMC, IEEE TCCN, etc."
+    
   - title: Lead Guest Editor
-    company: IEEE Transactions on Network Science and Engineering Special Issue on "Knowledge-driven Autonomous Agent Systems_Mission-centric Coordination"
-    company_url: 'https://www.comsoc.org/publications/journals/ieee-tnse/cfp/knowledge-driven-autonomous-agent-systems-mission-centric'.
+    company: "IEEE Transactions on Network Science and Engineering"
+    description: "Special Issue: Knowledge-driven Autonomous Agent Systems - Mission-centric Coordination"
+    company_url: "https://www.comsoc.org/publications/journals/ieee-tnse/cfp/knowledge-driven-autonomous-agent-systems-mission-centric"
+    
   - title: Lead Guest Editor
-    company: Electronics Special Issue on "Security and Privacy in Distributed Computing Power Networks for AI: Threats, Countermeasures and Analysis"
-    company_url: 'https://www.mdpi.com/journal/electronics/special_issues/61151X94GB'
+    company: "Electronics (MDPI)"
+    description: "Special Issue: Security and Privacy in Distributed Computing Power Networks for AI"
+    company_url: "https://www.mdpi.com/journal/electronics/special_issues/61151X94GB"
+
 
 
     
