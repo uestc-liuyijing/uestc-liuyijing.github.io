@@ -38,7 +38,7 @@ experience:
 
   - title: Guest Editor
     company: Electronics Special Issue on "Security and Privacy in Distributed Computing Power Networks for AI: Threats, Countermeasures and Analysis"
-    company_url: '[https://www.comsoc.org/publications/journals/ieee-tnse/cfp/knowledge-driven-autonomous-agent-systems-mission-centric](https://www.mdpi.com/journal/electronics/special_issues/61151X94GB)'
+    company_url: 'https://www.mdpi.com/journal/electronics/special_issues/61151X94GB'
     
  # - title: Reviewer
   #  company: IEEE ICCT
