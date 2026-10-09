@@ -19,9 +19,9 @@ highlight_name: true
 
 
 interests:
-  - Distributed machine learning
-  - Generative AI
-  - Intelligent wireless networks
+  - AI for Wireless Networks
+  - Wireless Networks for AI
+  - Agentic AI-enabled Autonomous Networks
 
 # interpret as a text block
 #interests2: | 
@@ -77,7 +77,4 @@ title:
 
 Hi, I am Yi-Jing Liu (刘贻静)
 
-I am currently an Associate Professor at the National Key Laboratory of Wireless Communications, University of Electronic Science and Technology of China. My research focuses on the integration of agentic AI and future wireless networks, with particular interests in multi-agent intelligence, edge intelligence, and 6G networks. I study the interplay between AI and wireless networking from two complementary perspectives: “AI for Wireless Networks” and “Wireless Networks for AI.” The former investigates how learning and autonomous agents can enable intelligent network optimization, resource orchestration, and collaborative decision-making, while the latter focuses on how communication, computing, and networking infrastructures can efficiently support distributed AI training, inference, and agent collaboration. 
-
-More recently, I have been particularly interested in agentic AI-enabled autonomous networks, where multiple intelligent agents interact, learn, communicate, and coordinate over dynamic wireless environments. My long-term goal is to develop scalable, adaptive, and autonomous intelligence for future 6G mobile and edge networks.
-
+I am currently an Associate Professor at the National Key Laboratory of Wireless Communications, University of Electronic Science and Technology of China. My research focuses on the integration of agentic AI and future wireless networks, with particular interests in multi-agent intelligence, edge intelligence, and 6G networks. I study the interplay between AI and wireless networking from two complementary perspectives: “AI for Wireless Networks” and “Wireless Networks for AI.” The former investigates how learning and autonomous agents can enable intelligent network optimization, resource orchestration, and collaborative decision-making, while the latter focuses on how communication, computing, and networking infrastructures can efficiently support distributed AI training, inference, and agent collaboration. More recently, I have been particularly interested in agentic AI-enabled autonomous networks, where multiple intelligent agents interact, learn, communicate, and coordinate over dynamic wireless environments. 
