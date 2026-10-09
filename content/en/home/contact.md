@@ -26,7 +26,7 @@ content:
     country: China
     country_code: CHN
 
-  directions: Main Building B3 422
+  directions: Main Building B3 403
 #  office_hours:
 #    - 'Tuesday 09:00 to 17:00'
  
