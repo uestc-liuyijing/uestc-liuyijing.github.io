@@ -64,7 +64,8 @@ social:
   
 #- icon: linkedin
 #  icon_pack: fab
-#  link: https://www.linkedin.com/in/tipeng-chen-73b589107/ I was also a visiting Ph.D. student at the College of Computing and Data Science, under the supervision of [**prof. Dusit Niyato**](https://scholar.google.com/citations?user=T8sVhLMAAAAJ&hl=zh-CN), Nanyang Technological University, Singapore, from 2022 to 2023.
+#  link: https://www.linkedin.com/in/tipeng-chen-73b589107/ 
+
     
 
 
@@ -76,9 +77,9 @@ title:
 
 Hi, I am Yi-Jing Liu (刘贻静)
 
-I am currently an Associate Professor at the National Key Laboratory of Wireless Communications, University of Electronic Science and Technology of China. I received Ph.D. degree at the University of Electronic Science and technology in 2023, under the supervision of [**prof. Gang Feng**](https://scholar.google.com/citations?user=7pT4YiUAAAAJ&hl=zh-CN). 
+I am currently an Associate Professor at the National Key Laboratory of Wireless Communications, University of Electronic Science and Technology of China. 
 
 
-#Currently, my focus is on the Agentic AI as well as the integration of distributed machine learning/generative AI and wireless networks, from the perspectives of “AI for Wireless Networks” and “Wireless Networks for AI”. 
+
 My research focuses on the integration of agentic AI and future wireless networks, with particular interests in multi-agent intelligence, edge intelligence, and 6G networks. I study the interplay between AI and wireless networking from two complementary perspectives: “AI for Wireless Networks” and “Wireless Networks for AI.” The former investigates how learning and autonomous agents can enable intelligent network optimization, resource orchestration, and collaborative decision-making, while the latter focuses on how communication, computing, and networking infrastructures can efficiently support distributed AI training, inference, and agent collaboration. More recently, I have been particularly interested in agentic AI-enabled autonomous networks, where multiple intelligent agents interact, learn, communicate, and coordinate over dynamic wireless environments. My long-term goal is to develop scalable, adaptive, and autonomous intelligence for future 6G mobile and edge networks.
 
